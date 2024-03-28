@@ -1,0 +1,13 @@
+{
+  "name": "blockchain_merkletree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Merkle tree is a data structure that allows efficient verification such that a particular data belongs to a larger data set",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "merkletree":"MerkleTree.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
